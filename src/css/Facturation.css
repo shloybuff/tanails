@@ -13,10 +13,9 @@ h6{
 }
 
 .facturationInput{
-    
     margin: 4px;
-    width: 250px;
-    border: 0.1px solid #9C1717;
+    width: 45%;
+    border: 0.1px solid grey;
     height: 35px;
     
 }
