@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Tanail's",
+  "name": "Tanail's",
   "icons": [
     {
-      "src": "./image/nails.png",
+      "src": "./image/tan.png",
       "type": "image/png",
       "sizes": "512x512"
     }
