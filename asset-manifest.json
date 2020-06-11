@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tanails/static/css/main.65042aef.chunk.css",
+    "main.js": "/tanails/static/js/main.8e1f7c50.chunk.js",
+    "main.js.map": "/tanails/static/js/main.8e1f7c50.chunk.js.map",
+    "runtime-main.js": "/tanails/static/js/runtime-main.843759a3.js",
+    "runtime-main.js.map": "/tanails/static/js/runtime-main.843759a3.js.map",
+    "static/js/2.81147f9a.chunk.js": "/tanails/static/js/2.81147f9a.chunk.js",
+    "static/js/2.81147f9a.chunk.js.map": "/tanails/static/js/2.81147f9a.chunk.js.map",
+    "index.html": "/tanails/index.html",
+    "precache-manifest.6107cc90e3301c965a19d66401d2cf22.js": "/tanails/precache-manifest.6107cc90e3301c965a19d66401d2cf22.js",
+    "service-worker.js": "/tanails/service-worker.js",
+    "static/css/main.65042aef.chunk.css.map": "/tanails/static/css/main.65042aef.chunk.css.map",
+    "static/js/2.81147f9a.chunk.js.LICENSE.txt": "/tanails/static/js/2.81147f9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.843759a3.js",
+    "static/js/2.81147f9a.chunk.js",
+    "static/css/main.65042aef.chunk.css",
+    "static/js/main.8e1f7c50.chunk.js"
+  ]
+}
