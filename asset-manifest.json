@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tanails/static/css/main.611d54c3.chunk.css",
-    "main.js": "/tanails/static/js/main.58cdcab6.chunk.js",
-    "main.js.map": "/tanails/static/js/main.58cdcab6.chunk.js.map",
+    "main.js": "/tanails/static/js/main.fdf6c7f7.chunk.js",
+    "main.js.map": "/tanails/static/js/main.fdf6c7f7.chunk.js.map",
     "runtime-main.js": "/tanails/static/js/runtime-main.843759a3.js",
     "runtime-main.js.map": "/tanails/static/js/runtime-main.843759a3.js.map",
-    "static/js/2.81147f9a.chunk.js": "/tanails/static/js/2.81147f9a.chunk.js",
-    "static/js/2.81147f9a.chunk.js.map": "/tanails/static/js/2.81147f9a.chunk.js.map",
+    "static/js/2.69025ea4.chunk.js": "/tanails/static/js/2.69025ea4.chunk.js",
+    "static/js/2.69025ea4.chunk.js.map": "/tanails/static/js/2.69025ea4.chunk.js.map",
     "index.html": "/tanails/index.html",
-    "precache-manifest.0288478ce4472c767faecf76bbb0f6f1.js": "/tanails/precache-manifest.0288478ce4472c767faecf76bbb0f6f1.js",
+    "precache-manifest.96e29acb2d4fa57cde8f7c32d5ee4217.js": "/tanails/precache-manifest.96e29acb2d4fa57cde8f7c32d5ee4217.js",
     "service-worker.js": "/tanails/service-worker.js",
     "static/css/main.611d54c3.chunk.css.map": "/tanails/static/css/main.611d54c3.chunk.css.map",
-    "static/js/2.81147f9a.chunk.js.LICENSE.txt": "/tanails/static/js/2.81147f9a.chunk.js.LICENSE.txt"
+    "static/js/2.69025ea4.chunk.js.LICENSE.txt": "/tanails/static/js/2.69025ea4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.843759a3.js",
-    "static/js/2.81147f9a.chunk.js",
+    "static/js/2.69025ea4.chunk.js",
     "static/css/main.611d54c3.chunk.css",
-    "static/js/main.58cdcab6.chunk.js"
+    "static/js/main.fdf6c7f7.chunk.js"
   ]
 }
