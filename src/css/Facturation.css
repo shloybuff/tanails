@@ -14,8 +14,14 @@ h6{
 
 .facturationInput{
     margin: 4px;
-    width: 45%;
-    border: 0.1px solid grey;
+    width: 250px;
+    width: 100%;
+    border: 0.6px solid black;
     height: 35px;
+    margin-top:10px ;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 10px 14px 15px -7px rgba(105,105,105,1);
+    -moz-box-shadow: 10px 14px 15px -7px rgba(105,105,105,1);
+    box-shadow: 10px 14px 15px -7px rgba(105,105,105,1);
     
 }

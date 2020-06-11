@@ -13,7 +13,7 @@ function Facturation (props) {
       
             <h6>Quantité</h6>    
             <input type='number' onChange={(e) => props.handlequantité(e.target.value)} placeholder=' 1' className='facturationInput' />
-  
+            
             <h6>prix</h6>    
             <input type='number' onChange={(e) => props.handleprix(e.target.value)} placeholder=' 70₪' className='facturationInput'/>
         </div>
