@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b7a1d5e8acc4e2a7d0962928997ca27",
+    "revision": "06548c9f55e791a02467e2fd0e1a2ffc",
     "url": "/tanails/index.html"
   },
   {
-    "revision": "4943f3c96839cf74994b",
-    "url": "/tanails/static/css/main.65042aef.chunk.css"
+    "revision": "cedfc708f6385286f74a",
+    "url": "/tanails/static/css/main.8933b057.chunk.css"
   },
   {
     "revision": "8626f9af7effe4c7f14d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tanails/static/js/2.81147f9a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4943f3c96839cf74994b",
-    "url": "/tanails/static/js/main.8e1f7c50.chunk.js"
+    "revision": "cedfc708f6385286f74a",
+    "url": "/tanails/static/js/main.4a581631.chunk.js"
   },
   {
     "revision": "a2b5d4a367f026811800",
