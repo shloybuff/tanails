@@ -46,7 +46,7 @@ const Facture = {
       {({ blob, url, loading, error }) => (loading ? 'Loading document...' : <AiFillFilePdf style={{float:"right"}} fontSize='40' color='red'/>)}
     </PDFDownloadLink>
       <div className='containerFac'>
-        <h3 style={{fontFamily:'Sriracha, cursive',fontSize:30 }}>Tanail's</h3>
+        <h3 style={{fontFamily:'Sriracha, cursive',fontSize:30 }}>Tanail's .</h3>
     <h4>Adress de facturation</h4>
       <Form.Control
           value={name} 

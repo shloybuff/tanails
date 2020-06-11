@@ -102,9 +102,8 @@ const Docs = (props) => (
          <Text style={styles.textText}><Text style={{fontFamily: 'Times-Bold', fontSize:12}}>Price: </Text> {props.Facture.prix} NIS</Text>     
       </View> 
       </View>
-      <Text style={{fontSize:14, color:'black',fontFamily:'Times-Italic',marginLeft:15,marginTop:20, textDecoration:'none'}}>Follow Tanail's on<Link src='facebook.com'> Facebook</Link></Text>
-      <Text style={{fontSize:14, color:'black',fontFamily:'Times-Italic',marginLeft:15,marginTop:20, textDecoration:'none'}}>Follow Tanail's on<Link src='facebook.com'> Instagram</Link></Text>
-
+      <Link style={{fontSize:14, color:'black',fontFamily:'Times-Italic',marginLeft:15,marginTop:20, textDecoration:'none'}} src='https://www.instagram.com/tania0nails/'>Follow tanail' on  Facebook</Link>
+      <Link style={{fontSize:14, color:'black',fontFamily:'Times-Italic',marginLeft:15,marginTop:20, textDecoration:'none'}} src='https://www.facebook.com/TaniaBuffNails'>Follow tanail' on  Facebook</Link>
       <View style={{margin:30,textAlign:"center",width:'50%',padding:5,marginTop:100, border: '1px solid grey'}}>
           <Text style={{margin:3,fontSize:14,padding:7, fontFamily:'Times-Italic'}}>coordoone</Text>
           <Text style={{margin:3,fontSize:11}}>Bank hapoalim</Text>
